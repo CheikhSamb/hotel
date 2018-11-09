@@ -122,4 +122,4 @@ Some people who worked on this project :
     <span class="footerTitle"><span class="uc">a</span>ntonio <span class="uc">g</span>oncalves</span>
 </div>
 ##Ce fichier a été mofifier par lamp dans de le cadre d'un projet d'étude universitaire	
-##deuxieme commit lamp
+##troisieme commit lamp
